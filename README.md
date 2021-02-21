@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Example app with styled-components
 
 This example features how you use a different styling solution than [styled-jsx](https://github.com/zeit/styled-jsx) that also supports universal styles. That means we can serve the required styles for the first render within the HTML and then load the rest in the client. In this case we are using [styled-components](https://github.com/styled-components/styled-components).
@@ -76,3 +77,7 @@ export default () => (
 ```
 
 </details>
+=======
+# alura-quiz-web
+Projeto de Quiz realizado durante a imersão NextJS da Alura
+>>>>>>> 996351354352c4fbcfbd2a9ad7500470a93fcf5d
